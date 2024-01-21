@@ -1,2 +1,2 @@
-# bakery
+# Bakery
 Bakery Sales Analysis

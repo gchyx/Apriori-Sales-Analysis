@@ -1,4 +1,4 @@
-**Bakery Sales EDA Analysis:**
+**Bakery Sales EDA Analysis Dashboard:**
 https://public.tableau.com/views/BakerySalesDashboard_17088345165280/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 **Apriori Bakery Sales Analysis:**

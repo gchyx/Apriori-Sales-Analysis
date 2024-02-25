@@ -26,12 +26,6 @@ colnames(bakery_tr) <- c('items')
 
 write.csv(bakery_tr, 'Bakery_Transaction.csv', quote = FALSE, row.names = FALSE)
 
-
-## EDA
-
-
-
-
 ## MARKET BASKET
 
 # reading data set as transaction
